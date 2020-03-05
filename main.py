@@ -1,6 +1,29 @@
 from selenium import webdriver
 import time
 import pandas as pd
+from datetime import date
+
+def clean_data(df):
+    # df = df.drop('Unnamed: 0', axis=1)
+
+    df['new case'] = df['new case'].str.replace('+', '')
+    df['new_death'] = df['new_death'].str.replace('+', '')
+
+    df['death'] = df['death'].str.replace(',', '')
+    df['active_cases'] = df['active_cases'].str.replace(',', '')
+    df['recovered'] = df['recovered'].str.replace(',', '')
+    df['critical'] = df['critical'].str.replace(',', '')
+    df['total'] = df['total'].str.replace(',', '')
+
+    df = df.drop(df.index[0])
+    df = df.drop(df.index[len(df)-1])
+
+    df = df.fillna(0)
+    return df
+
+path='result_'
+
+today = str(date.today())
 driver = webdriver.Chrome()
 driver.get("https://www.worldometers.info/coronavirus/")
 time.sleep(10)
@@ -19,4 +42,7 @@ for tr in driver.find_elements_by_xpath('//*[@id="main_table_countries"]/tbody/t
     df = df.append(data_to_append, ignore_index=True)
 
 driver.close()
-df.to_csv('result_4_3_20.csv')
+
+df_cleaned=clean_data(df)
+output=path+today+'.csv'
+df_cleaned.to_csv(output)
