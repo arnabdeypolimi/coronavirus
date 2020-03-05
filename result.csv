@@ -1,0 +1,89 @@
+,country,total,new case,death,new_death,active_cases,recovered,critical
+0,0,0,0,0,0,0,0,0
+1,China,"80,430",+160,"3,013",+32,"25,187","52,230","5,952"
+2,S. Korea,"5,766",+145,36,+1,"5,642",88,52
+3,Iran,"3,513",+591,107,+15,"2,854",552,
+4,Italy,"3,089",,107,,"2,706",276,295
+5,Diamond Princess,706,,6,,488,212,35
+6,Germany,349,+87,,,333,16,2
+7,Japan,331,,6,,282,43,29
+8,France,285,,4,,269,12,15
+9,Spain,248,+20,3,+1,243,2,7
+10,USA,160,+2,11,,140,9,8
+11,Singapore,112,,,,33,79,7
+12,Hong Kong,105,+2,2,,66,37,6
+13,Switzerland,93,,1,+1,89,3,
+14,U.K.,90,+3,,,82,8,
+15,Norway,67,+8,,,67,,
+16,Sweden,60,+8,,,59,1,
+17,Kuwait,58,+2,,,58,,
+18,Malaysia,55,+5,,,33,22,
+19,Australia,52,,2,,29,21,1
+20,Bahrain,52,,,,51,1,
+21,Belgium,50,+27,,,49,1,1
+22,Thailand,47,+4,1,,15,31,1
+23,Taiwan,42,,1,,29,12,
+24,Netherlands,38,,,,38,,1
+25,Austria,37,+8,,,37,,
+26,Iraq,35,,2,,33,,
+27,Canada,34,,,,27,7,1
+28,India,30,+1,,,27,3,
+29,U.A.E.,28,,,,23,5,2
+30,Iceland,26,,,,25,1,
+31,Algeria,17,,,,17,,
+32,San Marino,16,,1,,15,,3
+33,Vietnam,16,,,,0,16,
+34,Denmark,15,,,,15,,
+35,Israel,15,,,,14,1,
+36,Lebanon,15,,,,15,,1
+37,Oman,15,,,,13,2,
+38,Finland,12,+5,,,11,1,
+39,Macao,10,,,,1,9,
+40,Croatia,10,,,,10,,
+41,Ecuador,10,,,,10,,1
+42,Greece,10,+1,,,10,,
+43,Czechia,8,,,,8,,
+44,Portugal,8,+2,,,8,,
+45,Qatar,8,,,,8,,
+46,Belarus,6,,,,6,,
+47,Ireland,6,,,,6,,
+48,Mexico,6,,,,5,1,
+49,Romania,6,,,,5,1,
+50,Pakistan,5,,,,5,,
+51,Georgia,4,+1,,,4,,1
+52,Russia,4,+1,,,2,2,
+53,Senegal,4,,,,4,,
+54,State of Palestine,4,+4,,,4,,
+55,Philippines,3,,1,,0,2,
+56,Azerbaijan,3,,,,3,,
+57,Brazil,3,,,,3,,
+58,New Zealand,3,,,,3,,
+59,Chile,3,,,,3,,
+60,Egypt,2,,,,1,1,
+61,Estonia,2,,,,2,,
+62,Indonesia,2,,,,2,,
+63,Morocco,2,+1,,,2,,
+64,Saudi Arabia,2,,,,2,,
+65,Bosnia and Herzegovina,2,+2,,,2,,
+66,Hungary,2,,,,2,,
+67,Afghanistan,1,,,,1,,
+68,Andorra,1,,,,1,,
+69,Armenia,1,,,,1,,
+70,Cambodia,1,,,,0,1,
+71,Dominican Republic,1,,,,1,,
+72,Jordan,1,,,,1,,
+73,Latvia,1,,,,1,,
+74,Lithuania,1,,,,1,,
+75,Luxembourg,1,,,,1,,
+76,North Macedonia,1,,,,1,,
+77,Monaco,1,,,,1,,
+78,Nepal,1,,,,0,1,
+79,Nigeria,1,,,,1,,
+80,Sri Lanka,1,,,,0,1,
+81,Tunisia,1,,,,1,,
+82,Ukraine,1,,,,1,,
+83,Argentina,1,,,,1,,
+84,Liechtenstein,1,,,,1,,
+85,Poland,1,,,,1,,
+86,Slovenia,1,,,,1,,
+87,Total:,"96,267","1,090","3,304",50,"39,252","53,711","6,421"
