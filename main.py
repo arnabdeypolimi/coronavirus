@@ -27,11 +27,11 @@ today = str(date.today())
 driver = webdriver.Chrome()
 driver.get("https://www.worldometers.info/coronavirus/")
 time.sleep(10)
-data=driver.find_element_by_xpath('//*[@id="main_table_countries"]/tbody/tr')
+data=driver.find_element_by_xpath('//*[@id="main_table_countries_today"]/tbody/tr')
 print(data)
 data=[[0,0,0,0,0,0,0,0]]
 df=pd.DataFrame(data,columns=['country', 'total', 'new case', 'death', 'new_death','recovered', 'active_cases',  'critical'])
-for tr in driver.find_elements_by_xpath('//*[@id="main_table_countries"]/tbody/tr'):
+for tr in driver.find_elements_by_xpath('//*[@id="main_table_countries_today"]/tbody/tr'):
     tds=tr.find_elements_by_tag_name('td')
     temp=[]
     for td in tds:

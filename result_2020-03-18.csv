@@ -1,0 +1,174 @@
+,country,total,new case,death,new_death,recovered,active_cases,critical
+1,China,80894,13,3237,11,69614,8043,2622
+2,Italy,35713,"4,207",2978,475,4025,28710,2257
+3,Iran,17361,"1,192",1135,147,5710,10516,
+4,Spain,14746,"2,920",638,105,1081,13027,563
+5,Germany,12327,"2,960",28,2,105,12194,2
+6,France,9134,"1,404",264,89,602,8268,931
+7,S. Korea,8413,93,84,3,1540,6789,59
+8,USA,8042,"1,631",127,18,106,7809,12
+9,Switzerland,3076,334,33,6,15,3028,
+10,UK,2626,676,104,33,65,2457,20
+11,Netherlands,2051,346,58,15,2,1991,45
+12,Austria,1646,314,4,,9,1633,12
+13,Norway,1577,106,6,3,1,1570,27
+14,Belgium,1486,243,14,4,31,1441,33
+15,Sweden,1292,96,10,2,15,1267,12
+16,Denmark,1057,80,4,,1,1052,24
+17,Japan,899,21,29,,144,726,41
+18,Malaysia,790,117,2,,60,728,15
+19,Diamond Princess,712,,7,,456,249,14
+20,Canada,648,50,9,1,12,627,1
+21,Portugal,642,194,2,1,4,636,18
+22,Australia,565,110,6,1,43,516,1
+23,Czechia,522,88,,,3,519,5
+24,Qatar,452,10,,,4,448,
+25,Israel,433,96,,,11,422,6
+26,Greece,418,31,5,,14,399,13
+27,Brazil,393,47,3,2,2,388,18
+28,Finland,359,37,,,10,349,2
+29,Singapore,313,47,,,114,199,14
+30,Pakistan,307,60,2,2,13,292,
+31,Ireland,292,,2,,5,285,6
+32,Poland,287,49,5,,1,281,3
+33,Slovenia,286,11,1,,,285,4
+34,Romania,260,43,,,19,241,5
+35,Estonia,258,33,,,1,257,1
+36,Bahrain,255,14,1,,95,159,3
+37,Iceland,250,3,,,5,245,1
+38,Saudi Arabia,238,67,,,6,232,
+39,Chile,238,37,,,,238,3
+40,Indonesia,227,55,19,12,11,197,
+41,Thailand,212,35,1,,41,170,1
+42,Egypt,210,14,6,,28,176,
+43,Luxembourg,203,63,2,1,,201,1
+44,Philippines,202,15,17,3,4,181,1
+45,Hong Kong,181,13,4,,92,85,4
+46,India,168,25,3,,14,151,
+47,Iraq,164,10,12,1,41,111,
+48,Ecuador,155,44,2,,,153,2
+49,Russia,147,33,,,8,139,
+50,Peru,145,28,,,1,144,8
+51,Kuwait,142,12,,,15,127,4
+52,Lebanon,133,9,4,,4,125,3
+53,San Marino,119,,11,,4,104,11
+54,South Africa,116,31,,,,116,
+55,UAE,113,,,,26,87,2
+56,Armenia,110,32,,,1,109,2
+57,Slovakia,105,8,,,,105,2
+58,Taiwan,100,23,1,,20,79,
+59,Turkey,98,,1,,,97,
+60,Mexico,93,11,,,4,89,1
+61,Colombia,93,28,,,1,92,
+62,Bulgaria,92,11,2,,,90,
+63,Serbia,89,17,,,1,88,4
+64,Croatia,87,18,,,5,82,
+65,Panama,86,17,1,,,85,7
+66,Argentina,79,,2,,3,74,1
+67,Vietnam,76,10,,,16,60,
+68,Algeria,75,14,7,2,32,36,
+69,Latvia,71,11,,,1,70,
+70,Costa Rica,69,19,,,,69,3
+71,Brunei,68,12,,,,68,2
+72,Albania,59,4,2,1,,57,2
+73,Hungary,58,8,1,,2,55,4
+74,Cyprus,58,9,,,,58,1
+75,Faeroe Islands,58,11,,,1,57,
+76,Jordan,56,8,,,1,55,
+77,Morocco,54,10,2,,1,51,1
+78,Andorra,53,14,,,1,52,
+79,Belarus,51,15,,,5,46,
+80,Sri Lanka,51,7,,,3,48,
+81,Uruguay,50,,,,,50,
+82,Malta,48,10,,,2,46,
+83,Palestine,44,,,,,44,
+84,Oman,39,6,,,13,26,
+85,Bosnia and Herzegovina,39,5,,,2,37,
+86,Georgia,38,4,,,1,37,1
+87,Cambodia,37,4,,,1,36,
+88,Moldova,36,6,1,1,1,34,2
+89,Senegal,36,9,,,2,34,
+90,Kazakhstan,36,3,,,,36,
+91,Venezuela,36,3,,,,36,
+92,North Macedonia,35,4,,,1,34,1
+93,Azerbaijan,34,,1,,6,27,
+94,Lithuania,33,7,,,1,32,1
+95,Tunisia,29,2,,,1,28,2
+96,Liechtenstein,28,9,,,,28,
+97,Guadeloupe,27,9,,,,27,
+98,Martinique,23,8,1,,,22,
+99,Afghanistan,22,,,,1,21,
+100,Dominican Republic,21,,1,,,20,
+101,Burkina Faso,20,5,1,1,,19,
+102,New Zealand,20,,,,,20,
+103,Uzbekistan,18,7,,,,18,
+104,Macao,17,4,,,10,7,
+105,Ukraine,14,,2,,,12,
+106,Bangladesh,14,4,1,1,3,10,
+107,Cameroon,13,3,,,,13,
+108,Jamaica,13,,,,2,11,
+109,Maldives,13,,,,,13,
+110,Bolivia,12,,,,,12,
+111,Réunion,12,3,,,,12,
+112,French Guiana,11,,,,,11,
+113,Paraguay,11,2,,,,11,1
+114,Rwanda,11,4,,,,11,
+115,Cuba,10,3,,,,10,
+116,Monaco,9,,,,,9,
+117,Ivory Coast,9,5,,,1,8,
+118,Honduras,9,1,,,,9,
+119,Guatemala,8,,1,,,7,
+120,Nigeria,8,5,,,1,7,
+121,Gibraltar,8,5,,,2,6,
+122,Guam,8,3,,,,8,
+123,Montenegro,8,6,,,,8,
+124,Channel Islands,7,1,,,,7,
+125,DRC,7,4,,,,7,
+126,Ghana,7,,,,,7,
+127,Kenya,7,3,,,,7,
+128,Trinidad and Tobago,7,2,,,,7,
+129,Ethiopia,6,,,,,6,
+130,Mongolia,6,1,,,,6,
+131,Seychelles,6,2,,,,6,
+132,Puerto Rico,5,,,,,5,
+133,Guyana,4,,1,,,3,
+134,Aruba,4,1,,,,4,
+135,Equatorial Guinea,4,3,,,,4,
+136,Curaçao,3,,,,,3,
+137,French Polynesia,3,,,,,3,
+138,Gabon,3,,,,,3,
+139,Kyrgyzstan,3,3,,,,3,
+140,Mauritius,3,3,,,,3,
+141,Mayotte,3,,,,,3,
+142,St. Barth,3,,,,,3,
+143,Saint Martin,3,1,,,,3,
+144,Tanzania,3,2,,,,3,
+145,Sudan,2,1,1,,,1,
+146,Barbados,2,,,,,2,
+147,Benin,2,1,,,,2,
+148,Greenland,2,1,,,,2,
+149,Liberia,2,,,,,2,
+150,Mauritania,2,1,,,,2,
+151,Namibia,2,,,,,2,
+152,New Caledonia,2,2,,,,2,
+153,Saint Lucia,2,,,,,2,
+154,U.S. Virgin Islands,2,,,,,2,
+155,Zambia,2,2,,,,2,
+156,Cayman Islands,1,,1,,,0,
+157,Nepal,1,,,,1,0,
+158,Antigua and Barbuda,1,,,,,1,
+159,Bahamas,1,,,,,1,
+160,Bhutan,1,,,,,1,
+161,CAR,1,,,,,1,
+162,Congo,1,,,,,1,
+163,Djibouti,1,1,,,,1,
+164,Gambia,1,,,,,1,
+165,Guinea,1,,,,,1,
+166,Vatican City,1,,,,,1,
+167,Montserrat,1,1,,,,1,
+168,St. Vincent Grenadines,1,,,,,1,
+169,Sint Maarten,1,1,,,,1,
+170,Somalia,1,,,,,1,
+171,Suriname,1,,,,,1,
+172,Eswatini,1,,,,,1,
+173,Togo,1,,,,,1,
