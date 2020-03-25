@@ -21,7 +21,7 @@ def clean_data(df):
     df = df.fillna(0)
     return df
 
-path='result_'
+path='daily_data/result_'
 
 today = str(date.today())
 driver = webdriver.Chrome()
